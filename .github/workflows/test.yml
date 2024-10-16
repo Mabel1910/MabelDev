@@ -19,8 +19,8 @@ jobs:
                     ls -al
             - name: Read File
               run: |
-                   cat hola.txt
-                   la -al
+                cat hola.txt
+                la -al
     
     dos:
         runs-on: ubuntu-latest
