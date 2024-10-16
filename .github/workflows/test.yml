@@ -37,3 +37,4 @@ jobs:
                 ls -al
                 chmod +X script.sh
                 ls -al
+                ./script.sh
